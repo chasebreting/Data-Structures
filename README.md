@@ -1,6 +1,5 @@
 # Data-Structures
-Some Projects from EECS 233 Intro to Data Structures Spring 2020
-Chase Breting, CWRU
+Chase Breting, CWRU - Some Projects from EECS 233 Intro to Data Structures Spring 2020
 
 This repository consists of java files from three of my projects from Data Structures. 
 The first project deals with Huffman Encoding.Huffman Encoding is useful for generating efficient coded values for data based on their 
